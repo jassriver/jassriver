@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3><samp>⚡ River</h3></samp>
 
-<!--
-**jassriver/jassriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+  <sup>
+    <code>💻 Web Developer (5y)</code>
+    <code>📱 Mobile Developer (1y)</code>
+    <code>🤖 Ethical Hacker (~5y)</code>
+    <br>
+    <code>🔘 PHP (5y)</code>
+    <code>🟠 SQL/mariadb (5y)</code>
+    <code>🟡 Javascript (5y)</code>
+    <code>🔘 Wordpress (5y)</code>
+    <code>🔵 Python (3y)</code>
+    <code>🔴 Ruby on Rails (~3y)</code>
+    <code>🟣 React & React Native (1y)</code>
+    <code>⚫ TypeScript (~1y)</code>
+  </sup>
+</samp>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><sup><samp>Cellar door ⚜</samp></sup>
